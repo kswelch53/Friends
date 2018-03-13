@@ -1,0 +1,21 @@
+
+h1, h3{
+  font-family: sans-serif;
+}
+
+.login{
+  display: block;
+  margin-left: 10px;
+}
+
+.registration{
+  display: block;
+  margin-left: 10px;
+}
+
+.wrapper{
+  display: block;
+  width: 30%;
+  background-color: lavender;
+  border: 1px solid black;
+}
